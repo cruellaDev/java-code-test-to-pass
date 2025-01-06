@@ -2,6 +2,7 @@ package stack;
 
 import java.util.ArrayDeque;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Stack;
 
 public class Solution10RotateParentheses {
@@ -58,6 +59,10 @@ public class Solution10RotateParentheses {
             }
         }
         return answer;
+    }
+
+    record Sd() {
+
     }
 
     /*
