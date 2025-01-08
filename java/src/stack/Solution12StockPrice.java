@@ -23,7 +23,7 @@ public class Solution12StockPrice {
         Stack<Integer> stack = new Stack<>();
         stack.push(0);
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             // 가격이 떨어졌을 때
             while (!stack.isEmpty() && prices[i] < prices[stack.peek()]) {
                 int j = stack.pop();
