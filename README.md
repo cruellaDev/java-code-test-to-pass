@@ -4,5 +4,5 @@
 
 ## 목차
 
-[05 배열](./docs/05_Arrays.md)
-[06_스택](./docs/06_Stack.md)
+- [05 배열](./docs/05_Arrays.md)
+- [06_스택](./docs/06_Stack.md)
