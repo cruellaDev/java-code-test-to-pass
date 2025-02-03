@@ -22,7 +22,7 @@
 
 ### 큐의 ADT
 
-> [!NOTICE] ADT (Abstract data type)
+> 💡 ADT (Abstract data type)
 > 
 > 추상 자료형, 인터페이스만 있고 실제로 구현은 되지 않은 자료형
 
